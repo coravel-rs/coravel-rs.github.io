@@ -1,0 +1,4 @@
+[
+  { "version": "pre-alpha", "url": "/0.x", "isCurrent": true },
+  { "version": "v1", "url": "/1.x", "isCurrent": false }
+]
