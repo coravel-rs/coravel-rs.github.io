@@ -1,0 +1,13 @@
+# IDE files
+/.idea/
+/.fleet/
+/.vscode/
+
+# Sub-repositories
+/docs/wiki/
+
+# Misc.
+*~
+*.sw?
+.DS_Store
+Thumbs.db
