@@ -1,0 +1,6 @@
+*               text eol=lf
+.*              text eol=lf
+
+*.md            diff=markdown
+
+/.github        export-ignore
